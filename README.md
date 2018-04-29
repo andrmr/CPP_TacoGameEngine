@@ -1,2 +1,2 @@
-# C++: Game Engine and Demo
-C++ 17 and SDL2
+# Taco
+## A C++ 17 and [SDL2](https://www.libsdl.org) game engine
