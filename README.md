@@ -1,2 +1,2 @@
-# Game
-C++ 14 and SDL2
+# C++: Game Engine and Demo
+C++ 17 and SDL2
