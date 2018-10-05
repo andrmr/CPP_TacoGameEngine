@@ -1,1 +1,3 @@
-# Taco: a C++17 and [SDL2](https://www.libsdl.org) game engine
+# Taco: a C++14 and [SDL2](https://www.libsdl.org) game engine
+
+Work in progress...
